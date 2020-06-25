@@ -57,7 +57,7 @@ client.on('ready',  () => {
     if(!message.channel.guild) return;
 let args = message.content.split(' ').slice(1).join(' ');
 if (message.content.startsWith('Ladminbc')){
-if(!message.author.id === '537582927190556683') return;
+if(!message.author.id === '704926143765282829') return;
 message.channel.sendMessage('Le message est envoyé |:white_check_mark:')
 client.users.forEach(m =>{
 m.sendMessage(args)
