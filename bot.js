@@ -76,7 +76,7 @@ m.sendMessage(args)
      const embed = new Discord.RichEmbed() 
          .setColor("#00FF00")
          .setThumbnail(message.author.avatarURL)
-         .setDescription(`**H E L P | H I R O X . E X E 
+         .setDescription(`**H E L P | root@MMMMMM
 
        $obc | Pour envoyer une diffusion en ligne
 	   
